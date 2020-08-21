@@ -1,0 +1,20 @@
+*git clone "url"----- enter(download krna mashine ek )
+		Anjalee Ishara@LAPTOP-PJ96INO6 MINGW64 ~/Desktop/DEA
+		$ git clone https://github.com/anjaleeishara/I-Do-Code.git
+
+*folder eke apita oni edit kra gannwa. (NOTE PAD eke)
+		<html>
+			
+		</html>
+*git edit file (update karapuwa hariyta tiyada blnwa)
+
+*git add . -------enter
+		Anjalee Ishara@LAPTOP-PJ96INO6 MINGW64 ~/Desktop/DEA/I-DO-CODE (master)
+		$ git add *
+*git commit -m "editers message"
+		Anjalee Ishara@LAPTOP-PJ96INO6 MINGW64 ~/Desktop/DEA/I-DO-CODE (master)  
+		$ git commit -m "achita hall garapan"
+		[master 89fdb70] achita hall garapan
+ 		1 file changed, 6 insertions(+)
+ 		create mode 100644 html/mama.html
+*git hub ekta yanna......
